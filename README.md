@@ -12,8 +12,15 @@ A comparison of the runtimes for the final query was done under differing condit
   - Uncached (Regular initial query)
   
   <img width="271" alt="Screenshot 2024-04-13 at 8 07 57 PM" src="https://github.com/Nalchamp/Home_Sales/assets/145158606/b694369b-c058-4524-911c-20516e8e80a2">
+  
   - Cached
+
+  <img width="269" alt="Screenshot 2024-04-13 at 8 09 24 PM" src="https://github.com/Nalchamp/Home_Sales/assets/145158606/0c62f9d9-c38a-4ba2-aa99-f700e23f5da7">
+
     
   - Partitioned and Parquet
+
+  <img width="283" alt="Screenshot 2024-04-13 at 8 10 11 PM" src="https://github.com/Nalchamp/Home_Sales/assets/145158606/2417ab90-7161-4a80-9b55-91d3c2bcea48">
+
     
 
