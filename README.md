@@ -10,7 +10,8 @@ The key metrics assessed were:
 
 A comparison of the runtimes for the final query was done under differing conditions. The conditions were as follows with the associated run times:
   - Uncached (Regular initial query)
-    <img width="271" alt="Screenshot 2024-04-13 at 8 07 57 PM" src="https://github.com/Nalchamp/Home_Sales/assets/145158606/b694369b-c058-4524-911c-20516e8e80a2">
+  
+  <img width="271" alt="Screenshot 2024-04-13 at 8 07 57 PM" src="https://github.com/Nalchamp/Home_Sales/assets/145158606/b694369b-c058-4524-911c-20516e8e80a2">
   - Cached
     
   - Partitioned and Parquet
